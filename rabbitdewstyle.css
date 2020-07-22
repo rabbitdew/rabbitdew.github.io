@@ -32,6 +32,7 @@ div#banner pre {
         margin: 1em 1em;
 	height: auto;
 	width: 90%;
+	overflow: auto;
 }
 img { 
 	height: auto;
