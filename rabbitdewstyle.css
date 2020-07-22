@@ -8,5 +8,9 @@ h1 {
 }
 
 p {
-  margin: 1em 2em;
+  margin: 1em 3em;
+}
+
+div.job_title {
+  margin: 1em 1.5em;
 }
