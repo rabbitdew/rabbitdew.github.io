@@ -12,5 +12,6 @@ p {
 }
 
 div.job_title {
+  text-align: center;
   margin: 1em 1.5em;
 }
