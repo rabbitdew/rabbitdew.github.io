@@ -30,6 +30,8 @@ div#banner pre {
 	font-weight: bold;
         text-align: center;
         margin: 1em 1em;
+	height: auto;
+	width: 90%;
 }
 img { 
 	height: auto;
