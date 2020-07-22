@@ -24,7 +24,7 @@ div.job_title {
 }
 
 div#banner pre {
-  font-color: orange;
+  color: orange;
   font-family: "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
   text-align: center;
   margin: 1em 1em;
