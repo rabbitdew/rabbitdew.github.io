@@ -17,6 +17,10 @@ div.job_title {
 }
 
 #banner {
-  text-align:center;
+  text-align: center;
   margin: 1em 1em;
+}
+img { 
+  height: auto;
+  width: 20%;
 }
