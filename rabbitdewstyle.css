@@ -17,7 +17,7 @@ div.job_title {
 }
 
 #banner {
-  font-family: 'Courier', 'Andale Mono';
+  font-family: "Lucida Console", Courier, monospace;
   text-align: center;
   margin: 1em 1em;
 }
