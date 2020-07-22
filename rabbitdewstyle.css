@@ -24,12 +24,14 @@ div.job_title {
 }
 
 div#banner pre {
-  color: orange;
-  font-family: "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
-  text-align: center;
-  margin: 1em 1em;
+        background-color: black;
+        color: orange;
+        font-family: "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
+	font-weight: bold;
+        text-align: center;
+        margin: 1em 1em;
 }
 img { 
-  height: auto;
-  width: 20%;
+	height: auto;
+        width: 20%;
 }
