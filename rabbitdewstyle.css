@@ -17,6 +17,7 @@ div.job_title {
 }
 
 #banner {
+  font-family: 'Courier', 'Andale Mono';
   text-align: center;
   margin: 1em 1em;
 }
