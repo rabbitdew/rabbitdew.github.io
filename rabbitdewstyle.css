@@ -22,13 +22,17 @@ div.job_title {
   text-align: center;
   margin: 1em 1em;
   }
-img#headshot {
+img#jhowell_headshot {
   height: auto;
-  width: 20%;
+  width: 15%;
   }
-img#name_banner {
+img#jhowell_banner {
   height: auto;
   width: 70%;
+  }
+img#jhowell_cupcake {
+  height: auto;
+  width: 15%;
   }
 
 div#banner pre {
