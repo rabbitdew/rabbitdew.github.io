@@ -15,7 +15,7 @@ div.job_title {
   text-align: center;
   margin: 0.5em 0.5em;
   }
-img {
+img#jhowell_headshot{
   box-shadow: 10px 10px 5px #6b6b6b;
   -moz-box-shadow: 10px 10px 5px #6b6b6b;
   -webkit-box-shadow: 10px 10px 5px #6b6b6b;
@@ -26,4 +26,12 @@ img {
 img#jhowell_banner {
   height: auto;
   width: 60%;
+  }
+img#jhowell_cupcake{
+  box-shadow: 10px 10px 5px #6b6b6b;
+  -moz-box-shadow: 10px 10px 5px #6b6b6b;
+  -webkit-box-shadow: 10px 10px 5px #6b6b6b;
+  -khtml-box-shadow: 10px 10px 5px #6b6b6b;
+  height: auto;
+  width: 15%;
   }
