@@ -1,21 +1,13 @@
 body {
   background-color: lightblue;
-  font-size: 1.25em;
-}
-
-h1 {
-  color: navy;
-  margin-left: 20px;
-}
-
+  font-size: 16px;
+  }  
 p {
   margin: 1em 3em;
-}
-
+  }
 div.job_title {
   margin: 1em 1.5em;
-}
-
+  }
 #banner {
   text-align: center;
   font-family: "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
@@ -33,13 +25,4 @@ img#jhowell_banner {
 img#jhowell_cupcake {
   height: auto;
   width: 15%;
-  }
-
-div#banner pre {
-        background-color: black;
-        color: orange;
-        font-family: "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
-	font-weight: bold;
-        text-align: center;
-        margin: 1em 1em;
   }
