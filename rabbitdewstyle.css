@@ -13,11 +13,11 @@ p {
 }
 
 div.job_title {
-  text-align: center;
   margin: 1em 1.5em;
 }
 
 #banner {
+  text-align: center;
   font-family: "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
   text-align: center;
   margin: 1em 1em;
@@ -32,8 +32,4 @@ div#banner pre {
 	font-weight: bold;
         text-align: center;
         margin: 1em 1em;
-}
-img { 
-	height: auto;
-        width: 20%;
 }
