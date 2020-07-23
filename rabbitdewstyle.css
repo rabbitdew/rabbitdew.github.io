@@ -16,10 +16,10 @@ div.job_title {
   margin: 0.5em 0.5em;
   }
 img {
-  box-shadow: 10px 10px 5px #ccc;
-  -moz-box-shadow: 10px 10px 5px #ccc;
-  -webkit-box-shadow: 10px 10px 5px #ccc;
-  -khtml-box-shadow: 10px 10px 5px #ccc;
+  box-shadow: 10px 10px 5px #6b6b6b;
+  -moz-box-shadow: 10px 10px 5px #6b6b6b;
+  -webkit-box-shadow: 10px 10px 5px #6b6b6b;
+  -khtml-box-shadow: 10px 10px 5px #6b6b6b;
   }
 img#jhowell_headshot {
   height: auto;
