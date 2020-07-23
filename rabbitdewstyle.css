@@ -20,7 +20,7 @@ div.job_title {
   text-align: center;
   font-family: "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
   text-align: center;
-  margin: 1em 1em;
+  margin: 0.5em 0.5em;
   }
 img#jhowell_headshot {
   height: auto;
@@ -28,7 +28,7 @@ img#jhowell_headshot {
   }
 img#jhowell_banner {
   height: auto;
-  width: 70%;
+  width: 60%;
   }
 img#jhowell_cupcake {
   height: auto;
