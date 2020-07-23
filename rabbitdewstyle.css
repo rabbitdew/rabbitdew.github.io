@@ -22,9 +22,13 @@ div.job_title {
   text-align: center;
   margin: 1em 1em;
   }
-div#banner img {
+img#headshot {
   height: auto;
-  width: 75%;
+  width: 20%;
+  }
+img#name_banner {
+  height: auto;
+  width: 70%;
   }
 
 div#banner pre {
