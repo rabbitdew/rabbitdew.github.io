@@ -10,6 +10,7 @@ div.job_title {
   }
 #banner {
   text-align: center;
+  text-shadow: 2px 2px 5px #FF3403;
   font-family: "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
   text-align: center;
   margin: 0.5em 0.5em;
