@@ -21,6 +21,8 @@ div.job_title {
   font-family: "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
   text-align: center;
   margin: 1em 1em;
+  height: auto;
+  width: 75%;
 }
 
 div#banner pre {
@@ -30,9 +32,6 @@ div#banner pre {
 	font-weight: bold;
         text-align: center;
         margin: 1em 1em;
-	height: auto;
-	width: 90%;
-	overflow: auto;
 }
 img { 
 	height: auto;
